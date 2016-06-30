@@ -2,4 +2,4 @@
 
 2.打印日志 更改conf的log_type，加上log_dest stdout 就可以在cmd下看
 
-3.在cmd下 mosquitto可以打印全部的信息
+3.在cmd下 mosquitto -v可以打印全部的信息
